@@ -129,7 +129,7 @@ export default function ADHDWebsite() {
                 Support
                 <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-primary transition-all duration-300 group-hover:w-full"></span>
               </Link>
-              <Link href="/support">
+              <Link href="/auth">
                 <Button variant="outline" className="hover:scale-105 transition-transform duration-200 bg-transparent">
                   Sign In
                 </Button>
